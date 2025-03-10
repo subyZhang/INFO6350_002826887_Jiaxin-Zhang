@@ -1,0 +1,63 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "type": "single_choice",
+    "options": ["Paris", "Rome", "Berlin", "Madrid"],
+    "correct_answer": [0]
+  },
+  {
+    "question": "Flutter is developed by Google. True or False?",
+    "type": "true_false",
+    "options": ["True", "False"],
+    "correct_answer": [0]
+  },
+  {
+    "question": "Which programming language is used for Flutter?",
+    "type": "single_choice",
+    "options": ["Dart", "Java", "Swift", "Kotlin"],
+    "correct_answer": [0]
+  },
+  {
+    "question": "What is the square root of 64?",
+    "type": "single_choice",
+    "options": ["6", "8", "10", "12"],
+    "correct_answer": [1]
+  },
+  {
+    "question": "Is the Earth flat? True or False?",
+    "type": "true_false",
+    "options": ["True", "False"],
+    "correct_answer": [1]
+  },
+  {
+    "question": "Which of these is a prime number?",
+    "type": "single_choice",
+    "options": ["4", "6", "7", "9"],
+    "correct_answer": [2]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "type": "single_choice",
+    "options": ["Earth", "Mars", "Venus", "Saturn"],
+    "correct_answer": [1]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "type": "single_choice",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_answer": [3]
+  },
+  {
+    "question": "Which of these are countries in Africa?",
+    "type": "multiple_choice",
+    "options": ["Nigeria", "Brazil", "Kenya", "Canada", "South Africa"],
+    "correct_answer": [0, 2, 4]
+  },
+  {
+    "question": "Which of these are elements from the periodic table?",
+    "type": "multiple_choice",
+    "options": ["Oxygen", "Carbon", "Water", "Helium", "Salt"],
+    "correct_answer": [0, 1, 3]
+  }
+
+]
